@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <details open="open">
     <summary><h2>🖥️ My Skills</h2></summary>
     <a href="https://www.android.com/">
