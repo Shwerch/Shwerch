@@ -14,6 +14,7 @@
 </details>
 
 <details open="open">
+    <summary><h2>🌍 My Contacts</h2></summary>
     <a href="https://discordapp.com/users/931467171966619668">
         <img src="https://img.shields.io/badge/-Discord-747EF7?style=for-the-badge&logo=Discord&logoColor=white" />
     </a>
