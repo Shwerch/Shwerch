@@ -13,6 +13,12 @@
     </a>
 </details>
 
+<details open="open">
+    <a href="https://discordapp.com/users/931467171966619668">
+        <img src="https://img.shields.io/badge/-Discord-747EF7?style=for-the-badge&logo=Discord&logoColor=white" />
+    </a>
+</details>
+
 🔭 I’m currently working on [Pro Math EGE Android app](https://github.com/Shwerch/ProMathEGE)
 
 ⚡ Fun fact: EGE is coming soon...
