@@ -8,21 +8,11 @@
     <a href="https://java.com">
         <img src="https://img.shields.io/badge/-Java-ED760E?style=for-the-badge&logo=Java&logoColor=white"/>
     </a>
-    <a href="https://python.org/">
-        <img src="https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue" />
-    </a>
 </details>
 
-<details open="open">
-    <summary><h2>🌍 My Contacts</h2></summary>
-    <a href="https://discordapp.com/users/931467171966619668">
-        <img src="https://img.shields.io/badge/-Discord-747EF7?style=for-the-badge&logo=Discord&logoColor=white" />
-    </a>
-</details>
+🔭 I'm working on new projects...
 
-🔭 I’m currently working on [Pro Math EGE Android app](https://github.com/Shwerch/ProMathEGE)
-
-⚡ Fun fact: EGE is coming soon...
+⚡ Something is coming soon...
 <!--
 **Shwerch/Shwerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
