@@ -10,8 +10,6 @@
     </a>
 </details>
 
-🔭 I'm working on new projects...
-
 ⚡ Something is coming soon...
 <!--
 **Shwerch/Shwerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
