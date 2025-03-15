@@ -1,27 +1,27 @@
-# Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<details open="open">
-    <summary><h2>🖥️ My Skills</h2></summary>
-    <a href="https://www.android.com/">
-        <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
-    </a>
-    <a href="https://java.com">
-        <img src="https://img.shields.io/badge/-Java-ED760E?style=for-the-badge&logo=Java&logoColor=white"/>
-    </a>
-</details>
+###
 
-⚡ Something is coming soon...
-<!--
-**Shwerch/Shwerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning С/C++ at the university</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
